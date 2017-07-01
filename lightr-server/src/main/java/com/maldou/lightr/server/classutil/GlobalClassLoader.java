@@ -11,12 +11,6 @@ import com.maldou.lightr.server.util.FileHelper;
 
 import sun.misc.Launcher;
 
-
-/**
- * A class for load jar
- * 
- * @author Service Platform Architecture Team (spat@58.com)
- */
 @SuppressWarnings("restriction")
 public class GlobalClassLoader {
 	private static Method addURL;
